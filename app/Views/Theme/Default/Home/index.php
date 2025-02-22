@@ -989,14 +989,58 @@
                 <p class="num-title">ছবি</p>
             </div>
 
-            <div class="col-md-8">
-                <div class="ban-slider position-relative">
-                    <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
-                    <div class="bg-ban-slid position-absolute">
-                        <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
+            <div class="col-md-8 swiper">
+                <div class="swiper-progress-bar"></div>
+                <div class="swiper-wrapper swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="ban-slider position-relative ">
+                            <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            <div class="bg-ban-slid position-absolute">
+                                <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="ban-slider position-relative ">
+                            <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            <div class="bg-ban-slid position-absolute">
+                                <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="ban-slider position-relative ">
+                            <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            <div class="bg-ban-slid position-absolute">
+                                <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
+                <div class="swiper-row">
+                    <div class="swiper-prev-button">
+                        <svg viewBox="0 0 24 24" width="42" height="42">
+                            <circle opacity="0.6" fill="0.6" cx="12" cy="12" r="10"></circle>
+                            <path fill="#FFF" opacity="1" d="M13.53,16.803L9.197,12.47c-0.073-0.073-0.124-0.146-0.153-0.219 C9.015,12.179,9,12.099,9,12.011c0-0.087,0.015-0.168,0.044-0.241c0.029-0.073,0.08-0.146,0.153-0.219l4.354-4.354 C13.683,7.066,13.84,7,14.022,7c0.182,0,0.339,0.066,0.47,0.197c0.131,0.131,0.193,0.292,0.186,0.481 c-0.007,0.19-0.076,0.35-0.208,0.481l-3.851,3.851l3.873,3.873c0.131,0.131,0.197,0.285,0.197,0.46c0,0.175-0.066,0.328-0.197,0.46 C14.361,16.934,14.201,17,14.011,17C13.821,17,13.661,16.934,13.53,16.803z"></path>
+                        </svg>
+                    </div>
+                    <svg id="stop" width="42" height="42" viewBox="0 0 24 24">
+                        <circle opacity="0.6" cx="12" cy="12" r="10"></circle>
+                        <path fill="#FFFFFF" opacity="1" d="M12.607,15V9h2.061v6H12.607z M9,15V9h2.061v6H9z"></path>
+                    </svg>
+                    <svg id="start" width="42" height="42" viewBox="0 0 24 24"><circle opacity="0.6" cx="12" cy="12" r="10"></circle>
+                        <path fill="#FFFFFF" opacity="1" d="M10.078,15.87c-0.235,0.161-0.473,0.172-0.714,0.033C9.121,15.764,9,15.555,9,15.276V8.724 c0-0.279,0.121-0.488,0.363-0.627c0.242-0.139,0.48-0.128,0.714,0.033l5.145,3.276c0.22,0.147,0.33,0.345,0.33,0.594 s-0.11,0.447-0.33,0.594L10.078,15.87z"></path>
+                    </svg>
+                    <div class="swiper-next-button">
+                        <svg viewBox="0 0 24 24" width="42" height="42">
+                            <circle opacity="0.6" fill="var(--rgbBlack)" cx="12" cy="12" r="10"></circle>
+                            <path fill="#FFF" opacity="1" d="M9.187,16.813c-0.117-0.146-0.179-0.306-0.186-0.481 c-0.007-0.175,0.055-0.328,0.186-0.46l3.851-3.851L9.165,8.149c-0.117-0.117-0.171-0.273-0.164-0.47 c0.007-0.197,0.069-0.354,0.186-0.47c0.146-0.146,0.303-0.215,0.47-0.208c0.168,0.007,0.317,0.077,0.449,0.208l4.354,4.354 c0.073,0.073,0.124,0.146,0.153,0.219c0.029,0.073,0.044,0.153,0.044,0.241c0,0.087-0.015,0.168-0.044,0.241 c-0.029,0.073-0.08,0.146-0.153,0.219l-4.332,4.332c-0.131,0.131-0.284,0.193-0.459,0.186C9.493,16.992,9.332,16.93,9.187,16.813z"></path>
+                        </svg>
+                    </div>
+                </div>
+
+                <div class="count">1/2</div>
             </div>
             <div class="col-md-4 clas-mrt">
                 <div class="row">
