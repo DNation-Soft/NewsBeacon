@@ -715,7 +715,9 @@
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
                     <div class="col-md-6">
-                        <img src="<?php echo base_url() ?>/assets/default/images/fr.jpg" alt="">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/fr.jpg" alt="">
+                        </a>
                     </div>
                 </div>
                 <div class="row border-bottom mt-3">
@@ -724,7 +726,9 @@
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
                     <div class="col-md-6">
-                        <img src="<?php echo base_url() ?>/assets/default/images/fr.jpg" alt="">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/fr.jpg" alt="">
+                        </a>
                     </div>
                 </div>
                 <div class="row  mt-3">
@@ -733,7 +737,9 @@
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
                     <div class="col-md-6">
-                        <img src="<?php echo base_url() ?>/assets/default/images/fr.jpg" alt="">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/fr.jpg" alt="">
+                        </a>
                     </div>
                 </div>
             </div>
@@ -750,28 +756,36 @@
             </div>
 
             <div class="col-md-3 bor-right-1">
-                <img src="<?php echo base_url() ?>/assets/default/images/shit.jpg" alt="">
+                <a href="#" class="d-block overflow-hidden scale-image">
+                    <img src="<?php echo base_url() ?>/assets/default/images/shit.jpg" alt="">
+                </a>
                 <p class="title_ne mt-2"> দায়িত্ব গ্রহণ করেই ছাত্র-জনতার আন্দোলনে আহতদের দেখতে গেলেন খলিলুর রহমান</p>
                 <p class="text-ne">এই আহতদের প্রত্যাশা অনুযায়ী কাজ করাটা অনেক বড় কাজ হবে বলে মনে করেন প্রধান উপদেষ্টার রোহিঙ্গা সমস্যা ও অগ্রাধিকারপ্রাপ্ত বিষয়াবলি-সংক্রান্ত বিশেষ প্রতিনিধি খলিলুর রহমান।</p>
                 <p class="text-ne">২০ মিনিট আগে</p>
             </div>
 
             <div class="col-md-3 bor-right-1">
-                <img src="<?php echo base_url() ?>/assets/default/images/shit.jpg" alt="">
+                <a href="#" class="d-block overflow-hidden scale-image">
+                    <img src="<?php echo base_url() ?>/assets/default/images/shit.jpg" alt="">
+                </a>
                 <p class="title_ne mt-2"> দায়িত্ব গ্রহণ করেই ছাত্র-জনতার আন্দোলনে আহতদের দেখতে গেলেন খলিলুর রহমান</p>
                 <p class="text-ne">এই আহতদের প্রত্যাশা অনুযায়ী কাজ করাটা অনেক বড় কাজ হবে বলে মনে করেন প্রধান উপদেষ্টার রোহিঙ্গা সমস্যা ও অগ্রাধিকারপ্রাপ্ত বিষয়াবলি-সংক্রান্ত বিশেষ প্রতিনিধি খলিলুর রহমান।</p>
                 <p class="text-ne">২০ মিনিট আগে</p>
             </div>
 
             <div class="col-md-3 bor-right-1">
-                <img src="<?php echo base_url() ?>/assets/default/images/n.jpg" alt="">
+                <a href="#" class="d-block overflow-hidden scale-image">
+                    <img src="<?php echo base_url() ?>/assets/default/images/n.jpg" alt="">
+                </a>
                 <p class="title_ne mt-2"> দায়িত্ব গ্রহণ করেই ছাত্র-জনতার আন্দোলনে আহতদের দেখতে গেলেন খলিলুর রহমান</p>
                 <p class="text-ne">এই আহতদের প্রত্যাশা অনুযায়ী কাজ করাটা অনেক বড় কাজ হবে বলে মনে করেন প্রধান উপদেষ্টার রোহিঙ্গা সমস্যা ও অগ্রাধিকারপ্রাপ্ত বিষয়াবলি-সংক্রান্ত বিশেষ প্রতিনিধি খলিলুর রহমান।</p>
                 <p class="text-ne">২০ মিনিট আগে</p>
             </div>
 
             <div class="col-md-3 ">
-                <img src="<?php echo base_url() ?>/assets/default/images/shit.jpg" alt="">
+                <a href="#" class="d-block overflow-hidden scale-image">
+                    <img src="<?php echo base_url() ?>/assets/default/images/shit.jpg" alt="">
+                </a>
                 <p class="title_ne mt-2"> দায়িত্ব গ্রহণ করেই ছাত্র-জনতার আন্দোলনে আহতদের দেখতে গেলেন খলিলুর রহমান</p>
                 <p class="text-ne">এই আহতদের প্রত্যাশা অনুযায়ী কাজ করাটা অনেক বড় কাজ হবে বলে মনে করেন প্রধান উপদেষ্টার রোহিঙ্গা সমস্যা ও অগ্রাধিকারপ্রাপ্ত বিষয়াবলি-সংক্রান্ত বিশেষ প্রতিনিধি খলিলুর রহমান।</p>
                 <p class="text-ne">২০ মিনিট আগে</p>
@@ -799,7 +813,6 @@
                 </div>
             </div>
             <div class="col-md-8" >
-
 
                 <div class="d-flex">
                     <img src="<?php echo base_url() ?>/assets/default/images/icon.jpg" alt="" class="round-img">
@@ -846,7 +859,9 @@
                 <p class="num-title">বাণিজ্য</p>
             </div>
             <div class="col-md-4 bor-right-1-b">
-                <img src="<?php echo base_url() ?>/assets/default/images/ban.jpg" alt="" class="w-100">
+                <a href="#" class="d-block overflow-hidden scale-image">
+                    <img src="<?php echo base_url() ?>/assets/default/images/ban.jpg" alt="" class="w-100">
+                </a>
                 <p class="title-form mt-3">বাণিজ্যযুদ্ধে কেউ জিতবে না, ট্রাম্পের শুল্কহুমকির পর চীনের প্রতিক্রিয়া</p>
                 <p class="text-ne">বিবৃতিতে লিউ উল্লেখ করেছেন, গত বছর প্রেসিডেন্ট জো বাইডেন এবং চীনের প্রেসিডেন্ট সি চিন পিংয়ের মধ্যে চুক্তি হওয়ার পর চীন ওষুধ পাচার বন্ধে পদক্ষেপ নিয়েছে।</p>
                 <p class="text-ne">২০ মিনিট আগে</p>
@@ -854,12 +869,16 @@
             <div class="col-md-8">
                 <div class="row">
                     <div class="col-md-6 br-right">
-                        <img src="<?php echo base_url() ?>/assets/default/images/zz.jpg" alt="" class="w-100">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/zz.jpg" alt="" class="w-100">
+                        </a>
                         <p class="title-form-2 mt-3">যুক্তরাষ্ট্রের ক্ল্যামেথ নদীতে বাঁধ ভাঙতে না ভাঙতেই ১০০ বছর পর দেখা গেল স্যামন মাছ</p>
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
                     <div class="col-md-6">
-                        <img src="<?php echo base_url() ?>/assets/default/images/er.jpg" alt="" class="w-100">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/er.jpg" alt="" class="w-100">
+                        </a>
                         <p class="title-form-2 mt-3">বিশ্বের দৃষ্টিনন্দন ১০ মসজিদ</p>
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
@@ -868,12 +887,16 @@
                     </div>
 
                     <div class="col-md-6 br-right mt-3">
-                        <img src="<?php echo base_url() ?>/assets/default/images/flip.jpg" alt="" class="w-100">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/flip.jpg" alt="" class="w-100">
+                        </a>
                         <p class="title-form-2 mt-3">ইসরায়েলকে ‘জবাব’ দেওয়ার প্রস্তুতি নিচ্ছে ইরান</p>
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
                     <div class="col-md-6 mt-3">
-                        <img src="<?php echo base_url() ?>/assets/default/images/tram.jpg" alt="" class="w-100">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/tram.jpg" alt="" class="w-100">
+                        </a>
                         <p class="title-form-2 mt-3">ট্রাম্প-মাস্কের উষ্ণ সম্পর্ক কত দিন টিকতে পারে</p>
                         <p class="text-ne">২০ মিনিট আগে</p>
                     </div>
@@ -893,7 +916,9 @@
 
                 <div class="row">
                     <div class="col-md-6 mt-3 bor-right-1">
-                        <img src="<?php echo base_url() ?>/assets/default/images/ad.jpg" alt="" class="w-100 ">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/ad.jpg" alt="" class="w-100 ">
+                        </a>
                         <p class="mt-3 title-form">‘বাবা, তোমরা তো ঢিল মারতেছ, এদিকে ওই বিল্ডিংয়ে মারো’</p>
                         <p class="text-ne">কেন, ওই বিল্ডিংয়ে ঢিল মারব কেন? আমার ঢিল আমি মারব, যেদিকে খুশি সেদিকে মারব। আপনি বলার কে?</p>
                         <p class="text-ne">২০ মিনিট আগে</p>
@@ -906,7 +931,9 @@
                                 <p class="text-ne">২০ মিনিট আগে</p>
                             </div>
                             <div class="tt-two">
-                                <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                <a href="#" class="d-block overflow-hidden scale-image">
+                                    <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                </a>
                             </div>
                         </div>
 
@@ -939,7 +966,9 @@
 
                 <div class="row">
                     <div class="col-md-6 mt-3 bor-right-1">
-                        <img src="<?php echo base_url() ?>/assets/default/images/ad.jpg" alt="" class="w-100 ">
+                        <a href="#" class="d-block overflow-hidden scale-image">
+                            <img src="<?php echo base_url() ?>/assets/default/images/ad.jpg" alt="" class="w-100 ">
+                        </a>
                         <p class="mt-3 title-form">‘বাবা, তোমরা তো ঢিল মারতেছ, এদিকে ওই বিল্ডিংয়ে মারো’</p>
                         <p class="text-ne">কেন, ওই বিল্ডিংয়ে ঢিল মারব কেন? আমার ঢিল আমি মারব, যেদিকে খুশি সেদিকে মারব। আপনি বলার কে?</p>
                         <p class="text-ne">২০ মিনিট আগে</p>
@@ -952,7 +981,9 @@
                                 <p class="text-ne">২০ মিনিট আগে</p>
                             </div>
                             <div class="tt-two">
-                                <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                <a href="#" class="d-block overflow-hidden scale-image">
+                                    <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                </a>
                             </div>
                         </div>
 
@@ -962,7 +993,9 @@
                                 <p class="text-ne">২০ মিনিট আগে</p>
                             </div>
                             <div class="tt-two">
-                                <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                <a href="#" class="d-block overflow-hidden scale-image">
+                                    <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                </a>
                             </div>
                         </div>
 
@@ -972,7 +1005,9 @@
                                 <p class="text-ne">২০ মিনিট আগে</p>
                             </div>
                             <div class="tt-two">
-                                <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                <a href="#" class="d-block overflow-hidden scale-image">
+                                    <img src="<?php echo base_url() ?>/assets/default/images/gg.jpg" alt="">
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -994,7 +1029,9 @@
                 <div class="swiper-wrapper swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="ban-slider position-relative ">
-                            <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            <a href="#" class="d-block overflow-hidden scale-image">
+                                <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            </a>
                             <div class="bg-ban-slid position-absolute">
                                 <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
                             </div>
@@ -1002,7 +1039,9 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="ban-slider position-relative ">
-                            <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            <a href="#" class="d-block overflow-hidden scale-image">
+                                <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            </a>
                             <div class="bg-ban-slid position-absolute">
                                 <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
                             </div>
@@ -1010,7 +1049,9 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="ban-slider position-relative ">
-                            <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            <a href="#" class="d-block overflow-hidden scale-image">
+                                <img src="<?php echo base_url() ?>/assets/default/images/babb.jpg" alt="" class="w-100">
+                            </a>
                             <div class="bg-ban-slid position-absolute">
                                 <p class="text-ne text-white">ব্যস্ত সড়কে রিকশা ঢুকে পড়েছে। রিকশাচালক থামার নির্দেশ দিলে তিনি তা অমান্য করার চেষ্টা করেন। তখন ট্রাফিক পুলিশ চিৎকার করে তাঁকে থামানোর চেষ্টা করেন।</p>
                             </div>
