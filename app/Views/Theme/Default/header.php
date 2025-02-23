@@ -24,103 +24,6 @@
     />
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <style>
-
-        /*#header {*/
-        /*    background: #FFF;*/
-        /*    top: 0;*/
-        /*    left: 0;*/
-        /*    right: 0;*/
-        /*    z-index: 1;*/
-        /*    !*transform: translate3d(0px, 0px, 0px);*!*/
-        /*    !*transition: 0.4s ease-in-out;*!*/
-        /*}*/
-
-        /*.sticky {*/
-        /*    !*position: fixed;*!*/
-        /*    top: 0;*/
-        /*    left: 0;*/
-        /*    right: 0;*/
-        /*    z-index: 1;*/
-        /*    !*transform: translate3d(0px, 0px, 0px);*!*/
-        /*    !*transition: 0.4s ease-in-out;*!*/
-        /*    !*background: #fff;*!*/
-        /*}*/
-
-        /*.headroom--unpinned {*/
-            /*border-bottom:  2px solid #0000001f;*/
-            /*box-shadow: 0 0.333rem 0.333rem 0 #00000040;*/
-        /*}*/
-
-        #header {
-            background: white;
-            /*box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);*/
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 1000;
-            transition: transform 0.3s ease-in-out;
-        }
-
-         .headroom--unpinned {
-            /*border-bottom:  2px solid #0000001f;*/
-            box-shadow: 0 0.333rem 0.333rem 0 #00000040;
-        }
-
-        .mr-top {
-            border-top: 1px solid #dbdbdb;
-            margin-top: 212px;
-        }
-
-        .swiper-container {
-            width: 100%;
-            height: 300px;
-            position: relative;
-        }
-
-        /* Progress Bar */
-        .swiper-progress-bar {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 0%;
-            height: 4px;
-            background: red;
-            z-index: 9;
-            transition: width linear;
-        }
-
-        .swiper-button-prevs {
-            position: absolute;
-            top: 0;
-            left: 0;
-            z-index: 9;
-        }
-
-        .swiper-row {
-            display: flex;
-            position: absolute;
-            z-index: 9;
-            top: 10px;
-            right: 10px;
-        }
-
-        #start {
-            display: none;
-        }
-
-        .count {
-            background: #00000099;
-            padding: 7px 14px;
-            color: #ffffff99;
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            z-index: 9;
-            border-radius: 30px;
-            font-weight: 700;
-        }
-    </style>
 </head>
 <body>
 <header id="header" >
@@ -162,9 +65,7 @@
                         </button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav mn-hight me-auto mb-2 mb-lg-0">
-
                                 <?php echo top_menu();?>
-
                             </ul>
 
                             <ul class="navbar-nav mn-hight float-end  mb-2 mb-lg-0">
@@ -177,13 +78,13 @@
                                 <li class="nav-item pd-10 border">
                                     <a class="nav-link m-link-2" href="detail.html">
                                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20px" width="20px" version="1.1" id="Capa_1" viewBox="0 0 60.671 60.671" xml:space="preserve">
-                                        <g>
                                             <g>
-                                                <ellipse style="fill:#010002;" cx="30.336" cy="12.097" rx="11.997" ry="12.097"/>
-                                                <path style="fill:#010002;" d="M35.64,30.079H25.031c-7.021,0-12.714,5.739-12.714,12.821v17.771h36.037V42.9    C48.354,35.818,42.661,30.079,35.64,30.079z"/>
+                                                <g>
+                                                    <ellipse style="fill:#010002;" cx="30.336" cy="12.097" rx="11.997" ry="12.097"/>
+                                                    <path style="fill:#010002;" d="M35.64,30.079H25.031c-7.021,0-12.714,5.739-12.714,12.821v17.771h36.037V42.9    C48.354,35.818,42.661,30.079,35.64,30.079z"/>
+                                                </g>
                                             </g>
-                                        </g>
-                                    </svg>
+                                        </svg>
                                         Login
                                     </a>
                                 </li>
@@ -195,5 +96,4 @@
             </div>
         </div>
     </section>
-
 </header>
