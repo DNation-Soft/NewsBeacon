@@ -260,6 +260,20 @@
         resetProgressBarOnPush()
     });
 
+    document.querySelectorAll(".heading-image p")?.forEach(ele=>{
+        const truncate = (text, max) => text.length > max ? `${text.slice(0, max)}...` : text;
+        console.log(window.innerWidth)
+        if (window.innerWidth >= 1589){
+            ele.innerHTML = truncate(ele.innerHTML,50)
+        } if(window.innerWidth <= 1217) {
+            ele.innerHTML = truncate(ele.innerHTML,30)
+        } if(window.innerWidth <= 951){
+            ele.innerHTML = truncate(ele.innerHTML,24)
+        } else {
+            ele.innerHTML = truncate(ele.innerHTML,46)
+        }
+    })
+
 </script>
 </body>
 </html>

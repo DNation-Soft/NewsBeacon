@@ -43,7 +43,7 @@ p:hover{
 }
 
 .pd-menu{
-    padding: 0px 28px;
+    padding: 0 28px;
 }
 .navbar{
     padding-top: unset !important;
@@ -187,13 +187,15 @@ p:hover{
     font-weight: 600;
     margin-top: 15px;
 }
-.ban-spor{
+
+.ban-spor {
     background-image: url("../../assets/images/spor.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
 }
+
 .bc-on-num{
     background-color: #00000061;
     height: 170px;
@@ -414,52 +416,60 @@ p:hover{
     border-radius: 20px;
     padding: 15px;
 }
+
 .red-text{
     color: #ff0000;
 }
-.btn-bistarito{
+
+.btn-bistarito {
     background-color: #0d72e1 !important;
     color: #fff !important;
     width: 80px;
 }
-.title-bitari{
+
+.title-bitari {
     font-family: "Hind Siliguri", serif;;
     font-size: 18px;
     font-weight: 400;
     text-decoration: underline #ff0000;
 }
-.foot-t{
+
+.foot-t {
     font-family: "Hind Siliguri", serif;;
     font-size: 15px;
     font-weight: 400;
     color: #7c7c7c;
 }
-.foot-tt{
+
+.foot-tt {
     font-family: "Hind Siliguri", serif;;
     font-size: 14px;
     font-weight: 400;
     color: #7c7c7c;
 }
 
-.detail-title{
+.detail-title {
     font-family: "Hind Siliguri", serif;;
     font-size: 18px;
     font-weight: 600;
     text-decoration: underline;
     color: #0d72e1;
 }
-.detail-title-sub{
+
+.detail-title-sub {
     font-family: "Hind Siliguri", serif;;
     font-size: 16px;
     font-weight: 400;
     color: #595959;
 }
-.detail-title-main{
+
+.detail-title-main {
     font-family: "Hind Siliguri", serif;;
     font-size: 40px;
     font-weight: 600;
 }
-.detail-text{
+
+.detail-text {
     font-family: "Hind Siliguri", serif;;
     font-size: 16px;
     font-weight: 400;
@@ -468,44 +478,51 @@ p:hover{
 .bor-left-1-b{
     border-left: 1px solid;
 }
+
 .cat-manu{
     font-family: "Hind Siliguri", serif;;
     font-size: 18px;
 }
 
-.bg-ban-cat{
+.bg-ban-cat {
     background-color: #00000070;
     bottom: 0px;
     width: 100%;
     height: 85px;
     padding: 15px;
 }
-.bor-bottom-1-b{
+
+.bor-bottom-1-b {
     border-bottom: 1px solid;
 }
-.text-cat{
+
+.text-cat {
     font-family: "Hind Siliguri", serif;;
     font-size: 24px;
     color: #505050 !important;
     font-weight: 600;
 }
+
 .text-r-cat{
     font-family: "Hind Siliguri", serif;
     font-size: 20px;
     color: #0d72e1 !important;
     font-weight: 600;
 }
-.bor-cat-s{
+
+.bor-cat-s {
     border: 2px solid #0d72e1;
     width: 40px;
 }
-.cus-cat-cs{
+
+.cus-cat-cs {
     font-family: "Hind Siliguri", serif;
     font-size: 18px !important;
     color: #757575 !important;
     height: 55px;
 }
-.cus-cat-bt-cs{
+
+.cus-cat-bt-cs {
     font-family: "Hind Siliguri", serif;
     background-color: #0d72e1 !important;
     color: #fff !important;
@@ -513,7 +530,8 @@ p:hover{
     font-weight: 600 !important;
     height: 55px;
 }
-.cus-cat-bt-2-cs{
+
+.cus-cat-bt-2-cs {
     font-family: "Hind Siliguri", serif;
     background-color: #0d72e1 !important;
     color: #fff !important;
@@ -521,110 +539,131 @@ p:hover{
     width: 110px;
     border-radius: 20px !important;
 }
-.search-title{
+
+.search-title {
     font-family: "Hind Siliguri", serif;
     font-weight: 600;
 }
-.sear-cus{
+
+.sear-cus {
     height: 55px;
 }
-.sear-btn{
+
+.sear-btn {
     width: 60px;
     background-color: #0d72e1 !important;
     color: #fff !important;
 }
-.sear-bor-t{
+
+.sear-bor-t {
     border-top: 2px solid #878787;
     margin-top: 20px !important;
-
 }
-.cus-inp{
+
+.cus-inp {
     border: unset !important;
     border-radius: unset !important;
     border-bottom: 1px solid !important;
     height: 55px;
 }
-.color-black{
+
+.color-black {
     color: #000000;
 }
-.btn-c-lo{
+
+.btn-c-lo {
     background-color: #2374f2 !important;
     color: #fff !important;
     font-size: 20px !important;
     font-weight: 600 !important;
 }
-.btn-c-lo-2{
+
+.btn-c-lo-2 {
     background-color: #ff0000 !important;
     color: #fff !important;
     font-size: 20px !important;
     font-weight: 600 !important;
 }
-.log-area{
+
+.log-area {
     padding: 0px 75px !important;
     text-align: center;
 }
-.log-t{
+
+.log-t {
     font-family: "Hind Siliguri", serif;
     color: #2374f2;
     font-size: 35px;
     font-weight: 600;
 }
-.log-t-2{
+
+.log-t-2 {
     font-family: "Hind Siliguri", serif;
     font-size: 20px;
 }
-.text-for{
+
+.text-for {
     font-family: "Hind Siliguri", serif;
     font-weight: 600;
     padding: 15px !important;
     margin: unset;
 }
-.text-cre{
+
+.text-cre {
     font-family: "Hind Siliguri", serif;
     font-weight: 600;
     font-size: 18px;
 }
-.title-cus{
+
+.title-cus {
     font-family: "Hind Siliguri", serif;
     font-weight: 600;
     font-size: 22px;
     color: #595959;
 }
-.text-cus{
+
+.text-cus {
     font-family: "Hind Siliguri", serif;
     font-size: 22px;
     margin-left: 20px;
 }
-.title-main-cus{
+
+.title-main-cus {
     color: #2374f2;
 }
-.text-main-cus{
+
+.text-main-cus {
     font-family: "Hind Siliguri", serif;
     font-size: 20px;
     color: #707070;
     margin-top: 40px;
 }
-.test-edit{
+
+.test-edit {
     font-family: "Hind Siliguri", serif;
     font-size: 20px;
     font-weight: 800;
 }
-.test-edit-2{
+
+.test-edit-2 {
     font-family: "Hind Siliguri", serif;
     font-weight: 800;
 }
-.btn-s-p{
+
+.btn-s-p {
     color: #2374f2 !important;
     font-weight: 600 !important;
     font-size: 20px !important;
 }
-.text-area{
+
+.text-area {
     border: 1px solid;
     width: 100%;
     height: 250px;
     padding: 70px;
 }
-.btn-com{
+
+.btn-com {
     border: 1px solid #0573e6  !important;
     color: #0573e6 !important;
     font-weight: 600 !important;
@@ -735,40 +774,111 @@ p:hover{
     padding: 8px 28px;
 }
 
+.fixed-manu {
+    width: 222px;
+}
+
+.scroll-manu {
+    overflow-x: auto;
+}
+
+.heading-image img {
+    min-width: 48px;
+}
+
+.res-manu {
+    width: fit-content;
+}
+
+.res-manu a {
+    color: #000000de;
+    text-decoration: none;
+}
+
+.res-manu svg {
+    width: 24px;
+    height: 24px;
+}
+
+.bor-1 {
+    width: 1px;
+    height: 20px;
+    background: #00001f;
+}
+
+.main-logo {
+    min-width: 170px;
+    max-width: 270px;
+}
+
 @media only screen and (max-width: 900px){
-    .f-menu{
+    .f-menu {
         display: unset !important;
     }
-    .bor-right-2{
+
+    .bor-right-2 {
         border-right: unset !important;
     }
-    .bor-right-1{
+
+    .bor-right-1 {
         border-right: unset !important;
     }
-    .bac_cat2, .bac_cat1{
+
+    .bac_cat2, .bac_cat1 {
         margin-top: 20px;
     }
-    .bor-right-1-b{
+
+    .bor-right-1-b {
         border-right: unset !important;
     }
-    .br-right{
+
+    .br-right {
         border-right: unset !important;
     }
-    .clas-mrt{
+
+    .clas-mrt {
         margin-top: 25px !important;
     }
-    .bg-ban-slid{
+
+    .bg-ban-slid {
         top: 42px;
         height: 154px;
     }
-    .bag-cat-2{
+
+    .bag-cat-2 {
         margin-top: 20px;
     }
-    .img-100{
+
+    .img-100 {
         width: 100%;
     }
-    .bc-on-num{
+
+    .bc-on-num {
         height: 230px;
         bottom: -170px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .heading-image p {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 835px){
+    .heading-image {
+        display: none !important;
+    }
+
+    .fixed-manu {
+        display: none !important;
+    }
+
+    .res-manu {
+        display: flex !important;
+    }
+
+    .pd-menu {
+        padding: 0 16px;
     }
 }
